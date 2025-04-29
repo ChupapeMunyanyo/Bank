@@ -1,8 +1,8 @@
 import React, { memo } from 'react';
-import Header from '../project1/src/components/Header'
-import ContractInteraction from '../project1/src/components/Contract';
-import SubgraphInfo from '../project1/src/components/SubgraphInfo';
-import GraphQLQuery from '../project1/src/components/GraphQL';
+import Header from '../ProjectOne/src/components/Header'
+import ContractInteraction from '../ProjectOne/src/components/Contract';
+import SubgraphInfo from '../ProjectOne/src/components/SubgraphInfo';
+import GraphQLQuery from '../ProjectOne/src/components/GraphQL'
 import './styles.css';
 const App: React.FC = () => {
   return (
